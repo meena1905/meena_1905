@@ -16,10 +16,10 @@
 ## About Me
 
 I'm a Fourth-year AI & ML Engineering student at Atria Institute of Technology, Bengaluru. I build end-to-end AI systems — from model selection and pipeline design to deployment. My focus is on applications that actually ship: automated GenAI workflows, RAG-based assistants, and ML systems on real-world data.
-- 💼 Founding AI and Full Stack Engineer Intern @ **Lumoscale** (May 2026 – June 2026)
-- 🎓 B.E. in AI & ML, Atria Institute of Technology
-- 🤝 Open to collaborations on AI/ML projects
-- 📍  Bengaluru Karnataka, India
+-  Founding AI and Full Stack Engineer Intern @ **Lumoscale** (May 2026 – June 2026)
+-  B.E. in AI & ML, Atria Institute of Technology
+-  Open to collaborations on AI/ML projects
+-  Bengaluru Karnataka, India
 
 ---
 
@@ -44,7 +44,7 @@ I'm a Fourth-year AI & ML Engineering student at Atria Institute of Technology, 
 
 ## Projects
 
-### 🤖 [AI News Aggregator](https://github.com/meena1905/AI_News_Aggregator)
+###  [AI News Aggregator](https://github.com/meena1905/AI_News_Aggregator)
 > Fully automated GenAI pipeline with scheduled daily email digests
 
 Scrapes AI/tech articles from HackerNews and Dev.to, summarizes them with **Llama 3.1 via Groq**, and delivers personalized digests every morning at 7AM IST. Built on a **LangGraph multi-agent architecture** triggered by GitHub Actions on a cron schedule.
@@ -53,7 +53,7 @@ Scrapes AI/tech articles from HackerNews and Dev.to, summarizes them with **Llam
 
 ---
 
-### ☁️ [Cloud Resource Intelligence & Cost Optimizer](https://github.com/meena1905/Cloud-Resource-Intelligence-and-Cost-Optimizer) · [Live Demo ↗](https://cloud-resource-intelligence-and-cost-optimizer-m8erhlbr2xkxpa4.streamlit.app/)
+###  [Cloud Resource Intelligence & Cost Optimizer](https://github.com/meena1905/Cloud-Resource-Intelligence-and-Cost-Optimizer) · [Live Demo ↗](https://cloud-resource-intelligence-and-cost-optimizer-m8erhlbr2xkxpa4.streamlit.app/)
 > ML system for cloud cost analysis on real Google Borg Cluster data
 
 End-to-end ML pipeline on the **Google Borg Cluster (2019)** dataset — predicts CPU & memory usage with **R² = 0.9998**, detected **62% CPU over-provisioning**, and identified **61.5% potential cost savings**. Explainability via SHAP. Fully containerized.
@@ -62,7 +62,7 @@ End-to-end ML pipeline on the **Google Borg Cluster (2019)** dataset — predict
 
 ---
 
-### 🏦 [FinCo Banking Bot](https://github.com/meena1905/Finco_Banking_Bot) · [Live Demo ↗](https://finco-banking-bot.onrender.com)
+###  [FinCo Banking Bot](https://github.com/meena1905/Finco_Banking_Bot) · [Live Demo ↗](https://finco-banking-bot.onrender.com)
 > AI-powered complaint management system for banking
 
 Classifies complaints across **10+ categories** using TF-IDF + Logistic Regression, detects priority level, and generates responses via the **OpenAI API**. Flask employee dashboard deployed on Render.
@@ -71,7 +71,7 @@ Classifies complaints across **10+ categories** using TF-IDF + Logistic Regressi
 
 ---
 
-### 🎬 [Hybrid Recommendation System](https://github.com/meena1905/Hybrid_Recommendation_System) · [Live Demo ↗](https://huggingface.co/spaces/meena1904/Movie_Recommendation_System)
+### [Hybrid Recommendation System](https://github.com/meena1905/Hybrid_Recommendation_System) · [Live Demo ↗](https://huggingface.co/spaces/meena1904/Movie_Recommendation_System)
 > Recommendation engine combining collaborative + content-based filtering
 
 Hybrid approach outperforms either method alone. Deployed as an interactive demo on Hugging Face Spaces.
@@ -80,7 +80,7 @@ Hybrid approach outperforms either method alone. Deployed as an interactive demo
 
 ---
 
-## 🔧 Open Source Contributions
+##  Open Source Contributions
 
 - 🔀 [oss-copilot PR #7](https://github.com/vominh1919/oss-copilot/pull/7) — Added Ollama, vLLM & SGLang backend support with auto-detection and fal.ai cloud integration
 - 🔀 [SwiftPredict PR #7](https://github.com/ManasRanjanJena253/SwiftPredict/pull/7) — Extended model zoo with CatBoostClassifier & CatBoostRegressor
@@ -89,10 +89,10 @@ Hybrid approach outperforms either method alone. Deployed as an interactive demo
 
 ## Achievements
 
-🏆 **Top 600 — IQigai GenAI Fellowship, Fractal Analytics**
+ **Top 600 — IQigai GenAI Fellowship, Fractal Analytics**
 Ranked Top 600 out of thousands in Round 2 of the IQigai GenAI Fellowship AI Challenge.
 
-🥈 **First Runner-Up — Inceptus 2025, Tech Ratri**
+**First Runner-Up — Inceptus 2025, Tech Ratri**
 Built an AI security solution with access control, AES encryption, and breach detection — out of 50+ competing teams.
 
 ---
