@@ -15,7 +15,7 @@
 
 ## About Me
 
-I'm a Fourth-year AI & ML Engineering student at Atria Institute of Technology, Bengaluru. I build end-to-end AI systems — from model selection and pipeline design to deployment. My focus is on applications that actually ship: automated GenAI workflows, RAG-based assistants, and ML systems on real-world data.
+I'm a Fourth-year AI & ML Engineering student at Atria Institute of Technology, Bengaluru. I build end-to-end AI systems from model selection and pipeline design to deployment. My focus is on applications that actually ship: automated GenAI workflows, RAG-based assistants, and ML systems on real-world data.
 -  Founding AI and Full Stack Engineer Intern @ **Lumoscale** (May 2026 – June 2026)
 -  B.E. in AI & ML, Atria Institute of Technology
 -  Bengaluru Karnataka, India
@@ -55,7 +55,7 @@ Scrapes AI/tech articles from HackerNews and Dev.to, summarizes them with **Llam
 ###  [Cloud Resource Intelligence & Cost Optimizer](https://github.com/meena1905/Cloud-Resource-Intelligence-and-Cost-Optimizer) · [Live Demo ↗](https://cloud-resource-intelligence-and-cost-optimizer-m8erhlbr2xkxpa4.streamlit.app/)
 > ML system for cloud cost analysis on real Google Borg Cluster data
 
-End-to-end ML pipeline on the **Google Borg Cluster (2019)** dataset — predicts CPU & memory usage with **R² = 0.9998**, detected **62% CPU over-provisioning**, and identified **61.5% potential cost savings**. Explainability via SHAP. Fully containerized.
+End-to-end ML pipeline on the **Google Borg Cluster (2019)** dataset predicts CPU & memory usage with **R² = 0.9998**, detected **62% CPU over-provisioning**, and identified **61.5% potential cost savings**. Explainability via SHAP. Fully containerized.
 
 `Python` `LightGBM` `scikit-learn` `SHAP` `FastAPI` `Streamlit` `Docker`
 
@@ -120,5 +120,5 @@ I write about LLM inference, agentic AI architecture, finetuning, and GenAI on m
 ---
 
 <div align="center">
-  <sub> Open to collaborations · meenakshis3019@gmail.com</sub>
+  <sub>meenakshis3019@gmail.com</sub>
 </div>
