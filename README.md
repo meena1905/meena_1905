@@ -106,8 +106,8 @@ I write about LLM inference, agentic AI architecture, finetuning, and GenAI on m
 
 ## Position of Responsibility
 
-- **Joint Secretary**, IEEE MTT-S, Atria Institute of Technology — Mar 2026–Present
-- **Professional Service Director**, Rotaract Club, Atria Institute of Technology — Jun 2025–Present
+- **Professional Service Director**, Rotaract Club, Atria Institute of Technology — Jun 2025 – July 2026
+- **International Service Director**, Rotaract Club, Atria Institute of Technology — Mar 2026 – Jun 2025
 
 ---
 
