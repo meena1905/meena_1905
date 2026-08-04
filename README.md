@@ -24,20 +24,20 @@ I'm a Forth-year AI & ML Engineering student at Atria Institute of Technology, B
 
 ## Tech Stack
 
-**AI & ML**
-`Python` `LangChain` `LangGraph` `scikit-learn` `LightGBM` `SHAP` `FAISS` `Groq` `Ollama` `OpenAI API` `Sentence Transformers` `TF-IDF` `NLP` `RAG`
+**Programming**
+`Python` `C++` `SQL`
 
-**Data**
-`Pandas` `NumPy` `Seaborn` `Matplotlib`
+**Generative AI & NLP**
+`LangChain` `LangGraph` `TensorFlow` `Keras` `Prompt Engineering` `RAG` `NLTK` `SpaCy`
 
-**Web & APIs**
-`Flask` `FastAPI` `Streamlit` `HTML/CSS` `Bootstrap`
+**Machine Learning & Deep Learning**
+`Scikit-learn` `Neural Networks` `Regression` `Classification` `End-to-End ML Pipelines`
 
-**Databases**
-`PostgreSQL` `MySQL` `SQLite` `Supabase` `Vector Databases`
+**Data Science**
+`Pandas` `NumPy` `Matplotlib` `Seaborn`
 
-**DevOps & Tools**
-`Docker` `GitHub Actions` `Render` `Railway` `Playwright` `Hugging Face` `Git`
+**Tools & Deployment**
+`FastAPI` `Flask` `Docker` `GitHub` `Streamlit` `Render` `Jupyter Notebooks`
 
 ---
 
