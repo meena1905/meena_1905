@@ -116,6 +116,8 @@ I write about LLM inference, agentic AI architecture, finetuning, and GenAI on m
 - Python for Everybody — University of Michigan
 - AI & Machine Learning Professional Certification — DataMites *(In Progress, 2026)*
 - Generative AI Job Simulation — Forage
+- Explore Generative AI in Agent Platform – Google Cloud (Skill Badge)
+- Use Machine Learning APIs on Google Cloud – Google Cloud (Skill Badge)
 
 ---
 
