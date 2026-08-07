@@ -15,7 +15,7 @@
 
 ## About Me
 
-I'm a Forth-year AI & ML Engineering student at Atria Institute of Technology, Bengaluru. I build end-to-end AI systems from model selection and pipeline design to deployment. My focus is on applications that actually ship: automated GenAI workflows, RAG-based assistants, and ML systems on real-world data.
+I'm a Forth-year AI & ML Engineering student at Atria Institute of Technology, Bengaluru.I build end-to-end AI systems from model selection and pipeline design to deployment. My focus is on applications that actually ship: automated GenAI workflows, RAG-based assistants, and ML systems on real-world data.
 -  Founding AI and Full Stack Engineer Intern @ **Lumoscale** (May 2026 – June 2026)
 -  B.E. in AI & ML, Atria Institute of Technology
 -  Bengaluru Karnataka, India
