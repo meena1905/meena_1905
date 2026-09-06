@@ -43,48 +43,32 @@ I'm a Forth-year AI & ML Engineering student at Atria Institute of Technology, B
 
 ## Projects
 
-###  [AI News Aggregator](https://github.com/meena1905/AI_News_Aggregator)
-> Fully automated GenAI pipeline with scheduled daily email digests
+### [AI News Aggregator](https://github.com/meena1905/AI_News_Aggregator) · [Live Demo ↗](https://ai-news-aggregator-6bw5.onrender.com)
+> Fully automated AI-powered news digest with personalized daily email delivery
 
-Scrapes AI/tech articles from HackerNews and Dev.to, summarizes them with **Llama 3.1 via Groq**, and delivers personalized digests every morning at 7AM IST. Built on a **LangGraph multi-agent architecture** triggered by GitHub Actions on a cron schedule.
+Built an automated pipeline that scrapes **AI and tech articles from HackerNews and Dev.to**, summarizes them using **Groq LLMs**, personalizes content based on user interests, and delivers daily email digests. The pipeline is orchestrated using **LangGraph** and automatically triggered every morning through GitHub Actions.
 
-`Python` `LangGraph` `LangChain` `Groq` `FastAPI` `Playwright` `Supabase` `PostgreSQL` `GitHub Actions`
+`Python` `LangGraph` `LangChain` `Groq` `FastAPI` `Supabase PostgreSQL` `Playwright` `SendGrid` `Docker` `GitHub Actions`
 
----
+### [AI Recruitment Platform](https://github.com/meena1905/AI-Recruitment-Platform) · [Live Demo ↗](https://ai-recuitment-platform-1.vercel.app/)
+> AI-powered recruitment platform for intelligent resume screening and interview scheduling
 
-###  [Cloud Resource Intelligence & Cost Optimizer](https://github.com/meena1905/Cloud-Resource-Intelligence-and-Cost-Optimizer) · [Live Demo ↗](https://cloud-resource-intelligence-and-cost-optimizer-m8erhlbr2xkxpa4.streamlit.app/)
-> ML system for cloud cost analysis on real Google Borg Cluster data
+Built a full-stack recruitment platform that **scores and ranks candidates against job descriptions** with AI-generated match explanations. Includes resume uploads, HR applicant management, multi-slot interview scheduling, automated meeting links, email notifications, calendar invites, and hiring analytics.
 
-End-to-end ML pipeline on the **Google Borg Cluster (2019)** dataset predicts CPU & memory usage with **R² = 0.9998**, detected **62% CPU over-provisioning**, and identified **61.5% potential cost savings**. Explainability via SHAP. Fully containerized.
-
-`Python` `LightGBM` `scikit-learn` `SHAP` `FastAPI` `Streamlit` `Docker`
+`Python` `FastAPI` `Next.js` `React` `TypeScript` `PostgreSQL` `Redis` `Groq` `SQLAlchemy` `Docker`
 
 ---
 
-###  [FinCo Banking Bot](https://github.com/meena1905/Finco_Banking_Bot) · [Live Demo ↗](https://finco-banking-bot.onrender.com)
-> AI-powered complaint management system for banking
 
-Classifies complaints across **10+ categories** using TF-IDF + Logistic Regression, detects priority level, and generates responses via the **OpenAI API**. Flask employee dashboard deployed on Render.
+### [AI RAG Agent](https://github.com/meena1905/AI-RAG-Agent) · [Live Demo ↗](https://ai-rag-agent-myfggxkskh5tttnwmlv9qg.streamlit.app/)
+> Document-based conversational AI system using Retrieval-Augmented Generation
 
-`Python` `Flask` `scikit-learn` `OpenAI API` `SQLite` `Bootstrap`
+Built a multi-format document Q&A system supporting **PDF, DOCX, and TXT files**. Uses **FAISS and HuggingFace embeddings** for retrieval and multiple LLM providers for context-grounded answers. Includes conversational memory, source citations, streaming responses, confidence verification, and provider comparison.
 
----
-
-### [Hybrid Recommendation System](https://github.com/meena1905/Hybrid_Recommendation_System) · [Live Demo ↗](https://huggingface.co/spaces/meena1904/Movie_Recommendation_System)
-> Recommendation engine combining collaborative + content-based filtering
-
-Hybrid approach outperforms either method alone. Deployed as an interactive demo on Hugging Face Spaces.
-
-`Python` `scikit-learn` `Pandas`
+`Python` `LangChain` `FAISS` `HuggingFace` `Groq` `OpenAI` `Anthropic` `Gemini` `Streamlit`
 
 ---
 
-##  Open Source Contributions
-
-- 🔀 [oss-copilot PR #7](https://github.com/vominh1919/oss-copilot/pull/7) — Added Ollama, vLLM & SGLang backend support with auto-detection and fal.ai cloud integration
-- 🔀 [SwiftPredict PR #7](https://github.com/ManasRanjanJena253/SwiftPredict/pull/7) — Extended model zoo with CatBoostClassifier & CatBoostRegressor
-
----
 
 ## Achievements
 
@@ -110,14 +94,6 @@ I write about LLM inference, agentic AI architecture, finetuning, and GenAI on m
 - **International Service Director**, Rotaract Club, Atria Institute of Technology — Mar 2026 – Jun 2025
 
 ---
-
-## Certifications
-
-- Python for Everybody — University of Michigan
-- AI & Machine Learning Professional Certification — DataMites *(In Progress, 2026)*
-- Generative AI Job Simulation — Forage
-- Explore Generative AI in Agent Platform – Google Cloud (Skill Badge)
-- Use Machine Learning APIs on Google Cloud – Google Cloud (Skill Badge)
 
 ---
 
