@@ -95,8 +95,6 @@ I write about LLM inference, agentic AI architecture, finetuning, and GenAI on m
 
 ---
 
----
-
 <div align="center">
   <sub>meenakshis3019@gmail.com</sub>
 </div>
